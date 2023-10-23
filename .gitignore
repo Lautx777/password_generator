@@ -2,6 +2,7 @@
 /password_generator/include/
 /password_generator/bin/
 /build/
+/.idea
 /password_generator/lib/
 /password_generator.egg-info/
 /*.txt
