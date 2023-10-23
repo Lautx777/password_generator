@@ -15,7 +15,7 @@ def generatePassword(length):
 
 def savePassword(website, password, key):
     encryptedContent = encryptPassword(password, key)
-    with open("passwords.txt", "a") as file:
+    with open("new_passwords.txt", "a") as file:
         file.write(f"{website}: {encryptedContent.decode()}\n")
         print("Password encrypted and saved successfully.")
 
