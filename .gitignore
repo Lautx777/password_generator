@@ -1,10 +1,8 @@
-/password_generator/pyvenv.cfg
-/password_generator/include/
-/password_generator/bin/
 /build/
-/.idea
+/data/*.*
+/password_generator/bin/
+/password_generator/include/
 /password_generator/lib/
+/password_generator/pyvenv.cfg
+/password_generator/Scripts/
 /password_generator.egg-info/
-/*.txt
-/data/*
-/password_generator/Scripts/*
