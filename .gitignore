@@ -6,4 +6,4 @@
 /password_generator/pyvenv.cfg
 /password_generator/Scripts/
 /password_generator.egg-info/
-/data/*.*
+/data/*
