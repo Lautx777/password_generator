@@ -6,3 +6,5 @@
 /password_generator/lib/
 /password_generator.egg-info/
 /*.txt
+/data/*
+/password_generator/Scripts/*
