@@ -23,17 +23,17 @@ List the prerequisites to run the project, for example:
 
 Provide detailed instructions for installing and setting up the project. This might include:
 
-PASO 1:
+STEP 1:
 ```bash
 python3 -m venv password_generator
 ```
-PASO 2:
+STEP 2:
 ```bash
 LINUX: source password_generator/bin/activate 
 
 WINDOWS: password_generator\Scripts\activate
 ```
-PASO 3:
+STEP 3:
 ```bash
 pip install . 
 
