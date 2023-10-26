@@ -14,8 +14,7 @@ setup(
     entry_points={
         'console_scripts': [
             'generator = password_generator.generator:main',
-            'decrypt = password_generator.decrypt:main',
-            'reader = password_generator.reader:main',    
+            'decrypt = password_generator.decrypt:main',    
         ],
     },
 )
